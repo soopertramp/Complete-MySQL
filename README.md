@@ -1,6 +1,6 @@
 # Complete-MySQL
 
-https://miro.medium.com/max/720/1*TTM5AleQfFJ-mItttJROdg.webp
+<img src="https://miro.medium.com/max/720/1*TTM5AleQfFJ-mItttJROdg.webp" width="24px">
 
 This is my LinkedIn (https://www.linkedin.com/in/pradeepchandra-reddy-s-c/) posts of complete MySQL for Practice
 
