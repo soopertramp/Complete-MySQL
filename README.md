@@ -28,3 +28,5 @@ This is my LinkedIn posts of complete MySQL for Practice
 𝗗𝗮𝘆 - 𝟭𝟯 𝗩𝗶𝗲𝘄𝘀 https://lnkd.in/gyUZSTkt
 
 𝗗𝗮𝘆 - 𝟭𝟰 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮 https://lnkd.in/geHWvEcj
+
+𝗗𝗮𝘆 - 𝟭𝟱 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻, 𝗥𝗮𝗻𝗸, 𝗗𝗲𝗻𝘀𝗲 𝗥𝗮𝗻𝗸 https://lnkd.in/gGgtKXzE
