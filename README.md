@@ -14,3 +14,5 @@ This is my LinkedIn posts of complete MySQL for Practice
 𝗗𝗮𝘆 - 𝟲 𝗚𝗿𝗼𝘂𝗽𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗲𝘀 https://lnkd.in/gK6abKu8
 
 𝗗𝗮𝘆 - 𝟳 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗣𝗮𝗿𝘁 𝟭 https://lnkd.in/gZMpEbHx
+
+𝗗𝗮𝘆 - 𝟴 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗣𝗮𝗿𝘁 𝟮 https://lnkd.in/gWCU6YBU
