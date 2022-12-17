@@ -18,3 +18,5 @@ This is my LinkedIn posts of complete MySQL for Practice
 𝗗𝗮𝘆 - 𝟴 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗣𝗮𝗿𝘁 𝟮 https://lnkd.in/gWCU6YBU
 
 𝗗𝗮𝘆 - 𝟵 𝗝𝗼𝗶𝗻𝘀 https://lnkd.in/gjbhu9bc
+
+𝗗𝗮𝘆 - 𝟭𝟬 𝗖𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗟𝗼𝗴𝗶𝗰 https://lnkd.in/gCYdSNV5
