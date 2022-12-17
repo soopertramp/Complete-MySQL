@@ -20,3 +20,5 @@ This is my LinkedIn posts of complete MySQL for Practice
 𝗗𝗮𝘆 - 𝟵 𝗝𝗼𝗶𝗻𝘀 https://lnkd.in/gjbhu9bc
 
 𝗗𝗮𝘆 - 𝟭𝟬 𝗖𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗟𝗼𝗴𝗶𝗰 https://lnkd.in/gCYdSNV5
+
+𝗗𝗮𝘆 - 𝟭𝟭 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 https://lnkd.in/g8R-G4fy
