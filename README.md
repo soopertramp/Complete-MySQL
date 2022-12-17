@@ -16,3 +16,5 @@ This is my LinkedIn posts of complete MySQL for Practice
 𝗗𝗮𝘆 - 𝟳 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗣𝗮𝗿𝘁 𝟭 https://lnkd.in/gZMpEbHx
 
 𝗗𝗮𝘆 - 𝟴 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀 𝗣𝗮𝗿𝘁 𝟮 https://lnkd.in/gWCU6YBU
+
+𝗗𝗮𝘆 - 𝟵 𝗝𝗼𝗶𝗻𝘀 https://lnkd.in/gjbhu9bc
