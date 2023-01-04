@@ -2,7 +2,7 @@
 
 <img src="https://github.com/soopertramp/Complete-MySQL/blob/main/Image/Profile%20-%203000.png"  width="500px">
 <h1 align = centre>
-<img src="https://miro.medium.com/max/720/1*TTM5AleQfFJ-mItttJROdg.webp"  width="500px">
+<img src="https://miro.medium.com/max/720/1*TTM5AleQfFJ-mItttJROdg.webp"  width="400px">
 </h1>
 
 This is my LinkedIn (https://www.linkedin.com/in/pradeepchandra-reddy-s-c/) posts of complete MySQL for Practice
